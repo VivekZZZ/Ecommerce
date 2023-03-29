@@ -1,0 +1,147 @@
+[
+    {
+        "name" : "One Plus nord ce 2 5G",
+        "price" : "24999.00",
+        "description" : "65W SUPERVOOC, Mediatek Dimensity 900 , 6.43 inch, 90Hz FHD+ AMOLED Display, AI-infused Triple Camera, In-display fingerprint sensor",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "image/oneplus-nord-ce-2-5g-1_jxejfv",
+            "url" : "https://res.cloudinary.com/digzh86mb/image/upload/v1650534950/image/oneplus-nord-ce-2-5g-1_jxejfv.jpg"
+        }],
+        "category" : "Mobiles",
+        "seller" : "Amazon",
+        "stock" : 50,
+        "numOfReviews" : 332,
+        "reviews": []
+    },
+    {
+        "name" : "Boat Storm (smart watch)",
+        "price" : "2499.00",
+        "description" : "Stay alert at all times with smart notifications from your phone with vibration alerts for calls, texts, schedule reminders, alarms, & more! The “wellness mode” of the smartwatch monitors your sleep, heart rate, blood oxygen levels as well as guides you into a meditative state when you need to relax.",
+        "ratings" : 3.65,
+        "images" : [{
+            "public_id" : "image/a09a67f0-75bd-42b8-8f0d-58ffad51e03b_dijlb5",
+            "url" : "https://res.cloudinary.com/digzh86mb/image/upload/v1650534948/image/a09a67f0-75bd-42b8-8f0d-58ffad51e03b_dijlb5.png"
+        }],
+        "category" : "Watches",
+        "seller" : "Boat",
+        "stock" : 0,
+        "numOfReviews" : 2,
+        "reviews": []
+    },
+    {
+        "name" : "Infinix INBook X1 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home)",
+        "price" : "31999.00 ",
+        "description" : "Stylish & Portable Thin and Light Laptop 14 inch Full HD IPS Display ( 300nits peak brightness, 100% sRGB, NTSC 72%) Light Laptop without Optical Disk Drive",
+        "ratings" : 3.5,
+        "images" : [{
+            "public_id" : "image/inbook-x1-thin-and-light-laptop-infinix-original-imag8vfsvgu6jqxz_ell0so",
+            "url" : "https://res.cloudinary.com/digzh86mb/image/upload/v1650534948/image/inbook-x1-thin-and-light-laptop-infinix-original-imag8vfsvgu6jqxz_ell0so.jpg"
+        }],
+        "category" : "Laptops",
+        "seller" : "BUZZINDIA",
+        "stock" : 1,
+        "numOfReviews" : 12,
+        "reviews": []
+    },
+    {
+        "name" : "JBL Flip Essential IPX7 Waterproof 16 W Bluetooth Speaker  (Grey, Stereo Channel)",
+        "price" : "4999.00 ",
+        "description" : "Carry your party with you wherever you go with this JBL Bluetooth speaker. Packed with a number of impressive features, including 10 hours of playback time, a waterproof design and Bluetooth connectivity, this speaker ensures a seamless streaming experience.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "image/jbl-flip-essential-original-imafnpuhahqwvwhw_mcdu4v",
+            "url" : "https://res.cloudinary.com/digzh86mb/image/upload/v1650534948/image/jbl-flip-essential-original-imafnpuhahqwvwhw_mcdu4v.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "BuzzIndia",
+        "stock" : 11,
+        "numOfReviews" : 112,
+        "reviews": []
+    },
+    {
+        "name" : "Apple AirPods with Charging Case (Wired)",
+        "price" : "19999.00 ",
+        "description" : "AirPods with Charging Case: More than 24 hours listening time, up to 18 hours talk time; AirPods (single charge): Up to 5 hours listening time, up to 3 hours talk time or 15 minutes in the case equals up to 3 hours listening time or up to 2 hours talk time.",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "products/airpords_e5cqqr",
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : 12,
+        "numOfReviews" : 2671,
+        "reviews": []
+    },
+    {
+        "name" : "realme GT Master Edition (Cosmos Black, 256 GB)  (8 GB RAM)",
+        "price" : "30999.00",
+        "description" : "NA",
+        "ratings" : 4.3,
+        "images" : [{
+            "public_id" : "image/gsmarena_001_sicjd1",
+            "url" : "https://res.cloudinary.com/digzh86mb/image/upload/v1650534948/image/gsmarena_001_sicjd1.jpg"
+        }],
+        "category" : "Mobiles",
+        "seller" : "Flipkart",
+        "stock" : 123,
+        "numOfReviews" : 76,
+        "reviews": []
+    },
+    {
+        "name" : "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black ",
+        "price" : "45599.00",
+        "description" : "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
+        "ratings" : 4.7,
+        "images" : [{
+            "public_id" : "products/camera_ridc0i",
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231283/products/camera_ridc0i.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : 131,
+        "numOfReviews" : 222,
+        "reviews": []
+    },
+    {
+        "name" : "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray ",
+        "price" : "85999.99",
+        "description" : "Stunning 13.3-inch Retina display with True Tone technology, Backlit Magic Keyboard and Touch ID, Tenth-generation, Intel Core i3 processor, Intel Iris Plus Graphics, Fast SSD storage, 8GB of memory, Stereo speakers with wider stereo sound",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "products/macbook_o2cj2k",
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/macbook_o2cj2k.jpg"
+        }],
+        "category" : "Laptops",
+        "seller" : "Amazon",
+        "stock" : 2,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "SONY SA-D40 80 W Bluetooth Home Theatre  (Black, 4.1 Channel)",
+        "price" : "8935.00",
+        "description" : "Experience a high-fidelity, thrilling, cinematic audio experience from the comfort of your couch by bringing home this Sony home audio speaker. Movies, videos, and music will get a new dimension, thanks to the 4.1 channel audio system. With Bluetooth connectivity, you can easily pair your device to this speaker, play your favorite tunes, and groove to the powerful sound.",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "image/sony-sa-d40-original-imaffmj7yuzjzyhg_sqcfzc",
+                "url" : "https://res.cloudinary.com/digzh86mb/image/upload/v1650534950/image/sony-sa-d40-original-imaffmj7yuzjzyhg_sqcfzc.jpg"
+            },
+            {
+                "public_id" : "image/sony-sa-d40-original-imaffmj7jgmjdbu6_uzs1mi",
+                "url" : "https://res.cloudinary.com/digzh86mb/image/upload/v1650537148/image/sony-sa-d40-original-imaffmj7jgmjdbu6_uzs1mi.jpg" 
+            },
+            {
+                "public_id" : "image/sony-sa-d40-original-imaffmj7dywgz7gw_mu1bdp",
+                "url" : "https://res.cloudinary.com/digzh86mb/image/upload/v1650537147/image/sony-sa-d40-original-imaffmj7dywgz7gw_mu1bdp.jpg"
+            }
+    ],
+        "category" : "Electronics",
+        "seller" : "BUZZINDIA",
+        "stock" : 500,
+        "numOfReviews" : 100,
+        "reviews": []
+}
+]
